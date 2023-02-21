@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "agora-access-token": "^2.0.4",
+    "axios": "^0.26.1",
+    "nodemon": "^2.0.15",
+    "dotenv": "^10.0.0"
   }
 }
